@@ -4,3 +4,4 @@
 - 🔭 I’m currently working on coffeeStore project
 - 🌱 I’m currently learning JS and React
 
+### [Here](https://melnig.github.io/rsschool-cv/) you can see my CV.
