@@ -5,3 +5,6 @@
 - 🌱 I’m currently learning JS and React
 
 ### [Here](https://melnig.github.io/rsschool-cv/) you can see my CV.
+
+🛠  Languages and Tools :
+HTML  CSS  Sass  JavaScript  Git  Webpack  React  ReactRouter  Redux  Figma  Vscode 
